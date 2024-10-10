@@ -162,16 +162,7 @@ Local: `http://127.0.0.1:8000/`
 
 ---
 
-## Running Tests
 
-You can write tests using `pytest` or any other framework to test API endpoints.
-
-To run tests, use:
-```bash
-pytest
-```
-
----
 
 ## Future Features
 
