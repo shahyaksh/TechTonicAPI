@@ -162,7 +162,8 @@ Local: `http://127.0.0.1:8000/`
 
 ---
 
-
+### Note
+Before executing the application, please download the trained RBM model from the provided [Google Drive link](https://drive.google.com/drive/folders/19YiVMvjidrZCUT8jP0KVZRvZcZKRM39d?usp=drive_link) and place it in the Recommend_Blogs folder.
 
 ## Future Features
 
