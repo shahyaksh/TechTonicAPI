@@ -173,6 +173,9 @@ Before executing the application, please download the trained RBM model from the
 
 ---
 
+## Demo
+Check the demo of the API running [here](https://drive.google.com/file/d/1obXTAnDdz6T_Q7W2YO1X9cN7Ip4bebNl/view?usp=drive_link)
+
 ## Contributing
 
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request.
