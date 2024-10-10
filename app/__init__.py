@@ -13,9 +13,9 @@ from Recommend_Blogs.Using_Cosine_Similarity import pre_process_text
 while True:
     try:
         mydb = SqlConnector.connect(
-            host="blog-recommedation-system.cu9zz7jlsnla.ap-south-1.rds.amazonaws.com",
-            user="yaksh",
-            password="Yaksh_170802",
+            host="HostURL",
+            user="UserName",
+            password="Password",
             database="blog_recommendation_system"
         )
         cursor = mydb.cursor()
